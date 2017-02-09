@@ -1,0 +1,274 @@
+fileFormatVersion: 2
+guid: 10d42a08c596bb24abf940e8d8098724
+timeCreated: 1486450125
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bip01 L Arm003
+    100002: Bip01 L Arm2
+    100004: Bip01 L Finger0
+    100006: Bip01 L Finger043
+    100008: Bip01 L Finger044
+    100010: Bip01 L Finger045
+    100012: Bip01 L Finger046
+    100014: Bip01 L Finger047
+    100016: Bip01 L Finger048
+    100018: Bip01 L Finger049
+    100020: Bip01 L Finger050
+    100022: Bip01 L Finger051
+    100024: Bip01 L Finger052
+    100026: Bip01 L Finger053
+    100028: Bip01 L Finger054
+    100030: Bip01 L Finger055
+    100032: Bip01 L Finger1
+    100034: Bip01 L Finger11
+    100036: Bip01 L Finger12
+    100038: Bip01 L Finger2
+    100040: Bip01 L Finger21
+    100042: Bip01 L Finger22
+    100044: Bip01 L Finger3
+    100046: Bip01 L Finger31
+    100048: Bip01 L Finger32
+    100050: Bip01 L Finger4
+    100052: Bip01 L Finger41
+    100054: Bip01 L Finger42
+    100056: Bip01 L Hand
+    100058: Bip01 L Hand001
+    100060: Bip01 R Hand
+    100062: Bip01 R Hand001
+    100064: Bone002
+    100066: Bone01
+    100068: //RootNode
+    100070: SMDImport
+    100072: SMDImport001
+    100074: SMDImport002
+    100076: SMDImport003
+    400000: Bip01 L Arm003
+    400002: Bip01 L Arm2
+    400004: Bip01 L Finger0
+    400006: Bip01 L Finger043
+    400008: Bip01 L Finger044
+    400010: Bip01 L Finger045
+    400012: Bip01 L Finger046
+    400014: Bip01 L Finger047
+    400016: Bip01 L Finger048
+    400018: Bip01 L Finger049
+    400020: Bip01 L Finger050
+    400022: Bip01 L Finger051
+    400024: Bip01 L Finger052
+    400026: Bip01 L Finger053
+    400028: Bip01 L Finger054
+    400030: Bip01 L Finger055
+    400032: Bip01 L Finger1
+    400034: Bip01 L Finger11
+    400036: Bip01 L Finger12
+    400038: Bip01 L Finger2
+    400040: Bip01 L Finger21
+    400042: Bip01 L Finger22
+    400044: Bip01 L Finger3
+    400046: Bip01 L Finger31
+    400048: Bip01 L Finger32
+    400050: Bip01 L Finger4
+    400052: Bip01 L Finger41
+    400054: Bip01 L Finger42
+    400056: Bip01 L Hand
+    400058: Bip01 L Hand001
+    400060: Bip01 R Hand
+    400062: Bip01 R Hand001
+    400064: Bone002
+    400066: Bone01
+    400068: //RootNode
+    400070: SMDImport
+    400072: SMDImport001
+    400074: SMDImport002
+    400076: SMDImport003
+    4300000: SMDImport
+    4300002: SMDImport001
+    4300004: SMDImport002
+    4300006: SMDImport003
+    7400000: shoot
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: SMDImport
+    13700002: SMDImport001
+    13700004: SMDImport002
+    13700006: SMDImport003
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: shoot
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bip01 L Arm2
+        weight: 1
+      - path: Bip01 L Arm2/Bip01 L Hand
+        weight: 1
+      - path: Bip01 L Arm2/Bip01 L Hand/Bip01 L Finger0
+        weight: 1
+      - path: Bip01 L Arm2/Bip01 L Hand/Bip01 L Finger1
+        weight: 1
+      - path: Bip01 L Arm2/Bip01 L Hand/Bip01 L Finger1/Bip01 L Finger11
+        weight: 1
+      - path: Bip01 L Arm2/Bip01 L Hand/Bip01 L Finger1/Bip01 L Finger11/Bip01 L Finger12
+        weight: 1
+      - path: Bip01 L Arm2/Bip01 L Hand/Bip01 L Finger2
+        weight: 1
+      - path: Bip01 L Arm2/Bip01 L Hand/Bip01 L Finger2/Bip01 L Finger21
+        weight: 1
+      - path: Bip01 L Arm2/Bip01 L Hand/Bip01 L Finger2/Bip01 L Finger21/Bip01 L Finger22
+        weight: 1
+      - path: Bip01 L Arm2/Bip01 L Hand/Bip01 L Finger3
+        weight: 1
+      - path: Bip01 L Arm2/Bip01 L Hand/Bip01 L Finger3/Bip01 L Finger31
+        weight: 1
+      - path: Bip01 L Arm2/Bip01 L Hand/Bip01 L Finger3/Bip01 L Finger31/Bip01 L Finger32
+        weight: 1
+      - path: Bip01 L Arm2/Bip01 L Hand/Bip01 L Finger4
+        weight: 1
+      - path: Bip01 L Arm2/Bip01 L Hand/Bip01 L Finger4/Bip01 L Finger41
+        weight: 1
+      - path: Bip01 L Arm2/Bip01 L Hand/Bip01 L Finger4/Bip01 L Finger41/Bip01 L Finger42
+        weight: 1
+      - path: Bip01 L Arm003
+        weight: 1
+      - path: Bip01 L Arm003/Bip01 L Hand001
+        weight: 1
+      - path: Bip01 L Arm003/Bip01 L Hand001/Bip01 L Finger043
+        weight: 1
+      - path: Bip01 L Arm003/Bip01 L Hand001/Bip01 L Finger044
+        weight: 1
+      - path: Bip01 L Arm003/Bip01 L Hand001/Bip01 L Finger044/Bip01 L Finger045
+        weight: 1
+      - path: Bip01 L Arm003/Bip01 L Hand001/Bip01 L Finger044/Bip01 L Finger045/Bip01
+          L Finger046
+        weight: 1
+      - path: Bip01 L Arm003/Bip01 L Hand001/Bip01 L Finger047
+        weight: 1
+      - path: Bip01 L Arm003/Bip01 L Hand001/Bip01 L Finger047/Bip01 L Finger048
+        weight: 1
+      - path: Bip01 L Arm003/Bip01 L Hand001/Bip01 L Finger047/Bip01 L Finger048/Bip01
+          L Finger049
+        weight: 1
+      - path: Bip01 L Arm003/Bip01 L Hand001/Bip01 L Finger050
+        weight: 1
+      - path: Bip01 L Arm003/Bip01 L Hand001/Bip01 L Finger050/Bip01 L Finger051
+        weight: 1
+      - path: Bip01 L Arm003/Bip01 L Hand001/Bip01 L Finger050/Bip01 L Finger051/Bip01
+          L Finger052
+        weight: 1
+      - path: Bip01 L Arm003/Bip01 L Hand001/Bip01 L Finger053
+        weight: 1
+      - path: Bip01 L Arm003/Bip01 L Hand001/Bip01 L Finger053/Bip01 L Finger054
+        weight: 1
+      - path: Bip01 L Arm003/Bip01 L Hand001/Bip01 L Finger053/Bip01 L Finger054/Bip01
+          L Finger055
+        weight: 1
+      - path: Bip01 R Hand
+        weight: 1
+      - path: Bip01 R Hand/Bone01
+        weight: 1
+      - path: Bip01 R Hand001
+        weight: 1
+      - path: Bip01 R Hand001/Bone002
+        weight: 1
+      - path: SMDImport
+        weight: 1
+      - path: SMDImport001
+        weight: 1
+      - path: SMDImport002
+        weight: 1
+      - path: SMDImport003
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

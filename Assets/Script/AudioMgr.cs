@@ -22,6 +22,8 @@ namespace TGAME
 
         public void Load()
         {
+            Instance.AudioSet("shot1", "shot1");
+        
             Instance.AudioSet("bgm", "bgm");
             Instance.AudioSet("go", "go");
             Instance.AudioSet("ppo", "ppo");
